@@ -10,6 +10,7 @@ import org.glassfish.grizzly.http.server.HttpServer;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import sun.jvm.hotspot.utilities.Assert;
 
 import java.util.List;
 

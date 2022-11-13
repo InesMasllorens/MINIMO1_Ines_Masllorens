@@ -9,8 +9,5 @@
         <module name="rest-example2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MINIMO 1_Ines_Masllorens" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>
