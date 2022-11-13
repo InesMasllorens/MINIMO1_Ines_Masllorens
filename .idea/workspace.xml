@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bed96cb6-edc5-4a56-b532-e14fab0c4961" name="Changes" comment="He declarat 3 classes: joc, partida, user. &#10;He fet les operacions de cosnulta de nivell actual, puntuació actual, partides en les que ha participat un usuari. &#10;També he implementat la carpeta del swagger. Tot i que degut a erros de compilació no ho he pogut fer el Run del projecte.">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="bed96cb6-edc5-4a56-b532-e14fab0c4961" name="Changes" comment="He declarat 3 classes: joc, partida, user. &#10;He fet les operacions de cosnulta de nivell actual, puntuació actual, partides en les que ha participat un usuari. &#10;També he implementat la carpeta del swagger. Tot i que degut a erros de compilació no ho he pogut fer el Run del projecte..">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-example2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upc/dsa/JuegoManagerImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upc/dsa/JuegoManagerImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668083790123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="He declarat 3 classes: joc, partida, user. &#10;He fet les operacions de cosnulta de nivell actual, puntuació actual, partides en les que ha participat un usuari. &#10;També he implementat la carpeta del swagger. Tot i que degut a erros de compilació no ho he pogut fer el Run del projecte..">
+      <created>1668361359217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668361359218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="He declarat 3 classes: joc, partida, user. &#10;He fet les operacions de cosnulta de nivell actual, puntuació actual, partides en les que ha participat un usuari. &#10;També he implementat la carpeta del swagger. Tot i que degut a erros de compilació no ho he pogut fer el Run del projecte." />
-    <option name="LAST_COMMIT_MESSAGE" value="He declarat 3 classes: joc, partida, user. &#10;He fet les operacions de cosnulta de nivell actual, puntuació actual, partides en les que ha participat un usuari. &#10;També he implementat la carpeta del swagger. Tot i que degut a erros de compilació no ho he pogut fer el Run del projecte." />
+    <MESSAGE value="He declarat 3 classes: joc, partida, user. &#10;He fet les operacions de cosnulta de nivell actual, puntuació actual, partides en les que ha participat un usuari. &#10;També he implementat la carpeta del swagger. Tot i que degut a erros de compilació no ho he pogut fer el Run del projecte.." />
+    <option name="LAST_COMMIT_MESSAGE" value="He declarat 3 classes: joc, partida, user. &#10;He fet les operacions de cosnulta de nivell actual, puntuació actual, partides en les que ha participat un usuari. &#10;També he implementat la carpeta del swagger. Tot i que degut a erros de compilació no ho he pogut fer el Run del projecte.." />
   </component>
 </project>
